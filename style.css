@@ -62,3 +62,13 @@ body{
 #submit:hover{
 background-color: green;
 }
+
+#footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.about{
+    margin-left: 10px;
+}
