@@ -1,3 +1,5 @@
+/////////handle change getv from HTML///////
+
 function handlechange(){
     let Centemeter =  Number(document.getElementById("input").value)
 let convertinch = Centemeter /2.54
